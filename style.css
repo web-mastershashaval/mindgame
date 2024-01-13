@@ -33,6 +33,12 @@ button {
     border-radius: 10px;
     font-size:large;
 }
+#total-el{
+    color:brown;
+}
+#count-el{
+    color:purple;
+}
 
 #increament-btn {
     background: red;
