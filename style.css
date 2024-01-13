@@ -35,20 +35,21 @@ button {
 }
 #total-el{
     color:brown;
-    font-size:35px;
+    font-size:75px;
 }
 #count-el{
     color:purple;
-    font-size:35px;
+    font-size:75px;
 }
 
 #increament-btn {
     background: red;
-    font-size:15px;
+    font-size: 60px;
 }
 
 #save-btn {
     background: darkgreen;
+    font-size:60px;
 }
 
 #total-btn {
